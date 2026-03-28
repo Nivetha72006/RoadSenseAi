@@ -66,4 +66,5 @@ streamlit run app.py
 **Dataset**
 
 Publicly available vehicle image dataset with ~100 images per class across 5 categories. 
+
 Preprocessing includes resize to 224×224, normalization, augmentation (rotation, zoom, flip), and class weight balancing.

@@ -38,12 +38,15 @@ RoadSenseAI/
 ├── train.py             # Model training script
 
 ├── src/
+
 │   └── decision.py      # Confidence decision logic
 
 ├── model/
+
 │   └── vehicle_model.keras
 
 └── dataset/
+
     └── train/
     
 **How to Run**

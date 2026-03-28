@@ -32,12 +32,17 @@ Python · TensorFlow · Keras · MobileNetV2 · Streamlit · NumPy · Pillow
 **Project Structure**
 
 RoadSenseAI/
+
 ├── app.py               # Streamlit UI
+
 ├── train.py             # Model training script
+
 ├── src/
 │   └── decision.py      # Confidence decision logic
+
 ├── model/
 │   └── vehicle_model.keras
+
 └── dataset/
     └── train/
     

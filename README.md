@@ -35,11 +35,12 @@ RoadSenseAI/
 
 ├── app.py               # Streamlit UI
 
-├── train.py             # Model training script
 
 ├── src/
 
-    │   └── decision.py      # Confidence decision logic
+    ├── train.py         # Model training script
+
+    ├── decision.py      # Confidence decision logic
 
 ├── model/
 

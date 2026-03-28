@@ -39,15 +39,23 @@ RoadSenseAI/
 
 ├── src/
 
-│   └── decision.py      # Confidence decision logic
+    │   └── decision.py      # Confidence decision logic
 
 ├── model/
 
-│   └── vehicle_model.keras
+     │   └── vehicle_model.keras
 
 └── dataset/
 
-    └── train/
+    └── Bus/
+
+    └── Car/
+
+    └── Truck/
+
+    └── Ambulance/
+
+    └── Bike/
     
 **How to Run**
 
